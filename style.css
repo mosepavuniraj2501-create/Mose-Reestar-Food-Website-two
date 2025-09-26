@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.continer {
+    margin: 10px;
+}
+
+.continer-one {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.continer-two {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.continer-two__boxone,
+.continer-two__boxtwo,
+.continer-two__boxthree,
+.continer-two__boxfour {
+    display: inline-block;
+    height: 395px;
+    width: 180px;
+    border: solid black 2px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+.continer-two__buttonone {
+    margin: 0px;
+    text-align: center;
+    
+
+
+}
+
+.continer-three {
+
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.continer-three__contact {
+    width: 215px;
+    margin: 0 auto;
+    /* auto left & right margin */
+    padding-bottom: 5px;
+}
+
+.continer-three__table {
+
+    width: 300px;
+    margin: 0 auto;
+    /* auto left & right margin */
+    padding: 0px;
+}
+
+.continer-three__button {
+    width: 600px;
+    margin: 0 auto;
+    /* auto left & right margin */
+    padding-bottom: 5px;
+}
